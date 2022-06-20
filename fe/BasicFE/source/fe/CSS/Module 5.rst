@@ -1,4 +1,4 @@
-Module 15 : CSS2-Text Fonts
+Module 13 : CSS2-Text Fonts
 ===========================
 
 1) Color

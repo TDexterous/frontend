@@ -1,4 +1,4 @@
-Module 11 : CSS2-Introduction
+Module 9 : CSS2-Introduction
 =============================
 
 1) Benefits of CSS

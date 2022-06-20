@@ -1,4 +1,4 @@
-Module 13 : CSS2-Selectors
+Module 11 : CSS2-Selectors
 ==========================
 
 1) ID Selectors
