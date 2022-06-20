@@ -1,0 +1,18 @@
+1) make sure you are on the main branch  It contains updated source code.(main)
+2) fire git pull cmnd on the main branch & make sure "already up to date."
+3) Prepare new branch with cmnd git branch <branch name> , branch name should be specific to task
+4) Go inside the branch name with cmnd git checkout <branch name> , (branch name)
+	start doing ur changes to code , and finish & cross check  the task output.
+5) add code to staging area :
+	make sure u r inside the frontend folder & fire git add . cmnd
+	commit the code with msg by firing git commit -m "Put msg relevant to task"
+6) push code to github :
+	Fire git push origin <branch name> , to push branch to github
+7) merging of the branch to main branch :
+	go to main repo of code on github u will seen the button to raise pull rqst 
+	click on the button & raise the pull rqst
+	mentioned team on wp that u have raise rqst for review 
+8) once team review & approves pull rqst u will see button of merging the branch with main 
+	en click on button and merge with main
+
+9) Inform team that u have done the change on wp

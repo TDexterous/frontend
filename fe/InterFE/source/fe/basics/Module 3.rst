@@ -1,4 +1,4 @@
-Module 11 : HTML-Headers
+Module 3 : HTML-Headers
 =======================================
 
 1) Title

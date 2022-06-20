@@ -1,4 +1,4 @@
-Module 14 : CSS2-Color Background Cursor
+Module 12 : CSS2-Color Background Cursor
 ========================================
 
 1) Background-image
