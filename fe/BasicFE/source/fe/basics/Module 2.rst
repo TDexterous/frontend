@@ -69,7 +69,7 @@ where ,
 
 
 * The main  parts of element are :
-    - Opening tag 
+    - Opening tag
     - Closing tag
     - Content
 
