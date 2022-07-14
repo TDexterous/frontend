@@ -149,26 +149,27 @@ Ex. :
 
     Ex. :
 
-    * <b> This is bold text </b>
+    .. code-block:: html
+        :linenos:
 
-    * <strong> This text is important! </strong>
-
-    * <i> This text is italic </i>
-
-    * <em> This text is emphasized </em>
-
-    * <small> This is smaller text. </small>
-
-    * <p> Do not forget to complete <mark> Assignment </mark> today.</p>
-
-    * <p>My favorite color is <del> Green </del> Blue </p>
-
-    * <p>My favorite color is <del>Green</del> <ins>Blue</ins>.</p>
-
-    * <p>This is <sub>subscripted</sub> text.</p>
-
-    * <p>This is <sup>superscripted</sup> text.</p>
-
+        <!DOCTYPE html>
+        <html>
+        <head>
+        <title> Page title </title>
+        </head>
+        <body>
+            <b> This is bold text </b>
+            <strong> This text is important! </strong>
+            <i> This text is italic </i>
+            <em> This text is emphasized </em>
+            <small> This is smaller text. </small>
+            <p> Do not forget to complete <mark> Assignment </mark> today.</p>
+            <p>My favorite color is <del> Green </del> Blue </p>
+            <p>My favorite color is <del>Green</del> <ins>Blue</ins>.</p>
+            <p>This is <sub>subscripted</sub> text.</p>
+            <p>This is <sup>superscripted</sup> text.</p>
+        </body>
+        </html>
 
 3) HTML Color Coding
 ---------------------
