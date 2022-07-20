@@ -1,4 +1,4 @@
-Module 6 : CSS2-Dislpay Positioning
+Module 6 : CSS-Dislpay Positioning
 ====================================
 
 1) CSS Visibility

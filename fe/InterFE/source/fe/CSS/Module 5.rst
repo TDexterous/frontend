@@ -1,4 +1,4 @@
-Module 5 : CSS2-Box Model
+Module 5 : CSS-Box Model
 ==========================
 
 1) Borders & Outline

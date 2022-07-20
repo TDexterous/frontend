@@ -1,5 +1,5 @@
-Module 11 : CSS2-Selectors
-==========================
+Module 11 : CSS-Selectors
+=========================
 
 1) ID Selectors
 ---------------

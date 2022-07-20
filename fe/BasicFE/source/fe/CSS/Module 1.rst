@@ -1,5 +1,5 @@
-Module 9 : CSS2-Introduction
-=============================
+Module 9 : CSS-Introduction
+===========================
 
 1) Benefits of CSS
 ------------------
@@ -7,14 +7,7 @@ Module 9 : CSS2-Introduction
 2) CSS Versions History
 -----------------------
 
-3) CSS Syntax
--------------
-
-4) External Style Sheeet using <link>
+3) External Style Sheeet using <link>
 -------------------------------------
 
-5) Multiple Style Sheets
-------------------------
 
-6) Value Lenghts and Percentages
---------------------------------
