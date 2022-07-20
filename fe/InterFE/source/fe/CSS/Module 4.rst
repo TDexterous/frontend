@@ -1,4 +1,4 @@
-Module 4 : CSS2-Lists Tables
+Module 4 : CSS-Lists Tables
 =============================
 
 1) list-style-type
