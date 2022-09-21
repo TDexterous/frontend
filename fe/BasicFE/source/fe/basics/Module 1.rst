@@ -3,6 +3,7 @@ Module 1 : Web Programming Introduction
 
 1) Architecture of a website
 ----------------------------
+
 Web Architecture refers to the plannig and design of a sites information Architecture to establish structure and enhance usability.
 
 * Structural depth of your site 
@@ -21,9 +22,9 @@ Deep Architecture usually requires many more clicks to reach pages. This type of
 
 Architecture.diagram
 
-
 2) Different technologies in making the website
 -----------------------------------------------
+
 * HTML              
 * CSS               
 * Javascript        

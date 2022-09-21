@@ -3,6 +3,7 @@ Module 7 : HTML-Hyperlink
 
 1) URL - Uniform Resource Locator
 ---------------------------------
+
     It is a specific character string that is used to access data from the world wide web.
 
 * URL contains the following information :

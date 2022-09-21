@@ -134,6 +134,7 @@ Ex. :
 
 2) HTML Formatting Tags
 ------------------------
+
     Formatting Tags used to format your text in special types.
 
     * <b> - Bold text
@@ -209,6 +210,7 @@ Ex. :
 
 Color Coding Methods
 ####################
+
 There are following three different methods to set colors in your web page :
 
     a) Color names = You can specify color names directly like green, blue or red , etc.
@@ -257,8 +259,3 @@ c) RGB Values :
     The rgb takes three values ie. red, green, and blue and each value of red, green, and blue is between 0 and 255 or a percentage.
 
     Ex. : rgb(0,0,0) , rgb(255,0,0) , rgb(0,255,0)
-
-
-
-
-   
