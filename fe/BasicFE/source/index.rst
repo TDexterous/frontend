@@ -18,6 +18,3 @@ Index Page : Front End Basics
    /fe/CSS/Module 3
    /fe/CSS/Module 4
    /fe/CSS/Module 5
-   
-
-

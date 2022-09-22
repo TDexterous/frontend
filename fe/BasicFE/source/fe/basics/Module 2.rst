@@ -3,6 +3,7 @@ Module 2 : HTML-Introduction
 
 1) History of HTML
 ------------------
+
 * HTML was created by Sir Tim Berners-Lee in late 1991 but was not officially released. It was published in 1995 as HTML 2.0.
 
 * HTML 4.01 was published in late 1999 and was a major version of HTML.
@@ -13,6 +14,7 @@ Module 2 : HTML-Introduction
 
 2) What you need to do to get going and make your first HTML Page
 -----------------------------------------------------------------
+
     1) Text-Editor :
         - Notepad 
         - Visual Studio considered
@@ -75,6 +77,7 @@ where ,
 
 3) What are HTML Tags and Attributes ?
 --------------------------------------
+
 HTML Tags
 #########
 
@@ -91,6 +94,7 @@ HTML Tags
 
 HTML Attribute
 ##############
+
 * An Attribute provides extra information about an HTML element
 
 * It has two sections :
@@ -112,3 +116,4 @@ Ex. <p id ="attribute">This is attribute ex</p>
 
 5) HTML Attributes
 ------------------
+
