@@ -3,7 +3,7 @@ Module 3 : HTML-Basic Formatting Tags
 
 
 1) HTML Basic Tags
--------------------
+------------------
 
 1) Heading Tag :
     HTML has 6 levels of headings. While displaying any heading , browser adds one line before and one after that heading.
@@ -133,7 +133,7 @@ Ex. :
     </html>
 
 2) HTML Formatting Tags
-------------------------
+-----------------------
 
     Formatting Tags used to format your text in special types.
 
@@ -173,7 +173,7 @@ Ex. :
         </html>
 
 3) HTML Color Coding
----------------------
+--------------------
 
 You can set the color for page level or for particular tags.
 

@@ -1,5 +1,5 @@
-Module 9 : CSS-Introduction
-===========================
+Module 12 : CSS-Introduction
+============================
 
 1) Benefits of CSS
 ------------------
@@ -9,5 +9,3 @@ Module 9 : CSS-Introduction
 
 3) External Style Sheeet using <link>
 -------------------------------------
-
-

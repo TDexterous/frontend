@@ -1,4 +1,4 @@
-Module 12 : CSS-Color Background Cursor
+Module 15 : CSS-Color Background Cursor
 =======================================
 
 1) Background-image
