@@ -19,4 +19,14 @@ Index Page : Front End Intermediate
    /fe/Javascript/module_12
    /fe/Javascript/module_13
    /fe/Javascript/module_14
+   /fe/Javascript/module_15
+   /fe/Javascript/module_16
+   /fe/Javascript/module_17
+   /fe/Javascript/module_18
+   /fe/Javascript/module_19
+   /fe/Javascript/module_20
+   /fe/Javascript/module_21
+   /fe/Javascript/module_22
+   /fe/Javascript/module_23
+   /fe/Javascript/module_24
    

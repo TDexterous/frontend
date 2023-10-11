@@ -311,3 +311,127 @@ Output:
 5) Do While Loop
 ----------------
 
+- The do while loop is similar to while loop, but the condition is checked after the loop body is executed.
+- This ensure that the loop body is run at least once.
+
+Syntax:
+
+.. code-block:: javascript
+
+    do
+    { 
+        statements;
+    } while(test condition);
+
+Ex-1:
+
+.. code-block:: HTML
+   :linenos:
+
+    <!DOCTYPE html>
+    <html>
+        <head><title>Techno Dexterous</title>
+        </head>
+        <body>
+        <script>
+            var i = 0;
+            do 
+            {
+                document.write(i);
+                i++;
+                document.write("<br>");
+            } while(i<10);
+        </script>
+    </body>
+    </html>
+
+Output:
+
+.. code-block:: HTML
+
+    0
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+
+Ex-2:
+
+.. code-block:: HTML
+   :linenos:
+
+    <!DOCTYPE html>
+    <html>
+        <head><title>Techno Dexterous</title>
+        </head>
+        <body>
+        <script>
+            var i = 0;
+            do 
+            {
+                if(i==3)
+                {
+                    break;
+                }
+                document.write(i);
+                i++;
+                document.write("<br>");
+            } while(true);
+        </script>
+    </body>
+    </html>
+
+Output:
+
+.. code-block:: HTML
+
+    0
+    1
+    2
+
+6) Nested Do While Loop
+-----------------------
+
+- Do while inside Do while.
+
+Ex:
+
+.. code-block:: HTML
+   :linenos:
+
+    <!DOCTYPE html>
+    <html>
+        <head><title>Techno Dexterous</title>
+        </head>
+        <body>
+        <script>
+            var i = 0;
+            do 
+            {
+                document.write("<strong>Outer Loop </strong>");
+                document.write(i);
+                i++;
+                document.write("<br>");
+                var j = 0;
+                do 
+                {
+                    document.write("Inner Loop ");
+                    document.write(j);
+                    j++;
+                    document.write("<br>");
+                } while(j<5);
+            } while(i<3);
+        </script>
+    </body>
+    </html>
+
+Output:
+
+.. image:: D:/Courses/Javascript_images/nested_do_while_loop.png
+   :width: 300
+
