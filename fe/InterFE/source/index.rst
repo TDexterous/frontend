@@ -5,25 +5,28 @@ Index Page : Front End Intermediate
    :maxdepth: 2
 
    
-   /fe/basics/Module 1
-   /fe/basics/Module 2
-   /fe/basics/Module 3
-   /fe/CSS/Module 4
-   /fe/CSS/Module 5
-   /fe/CSS/Module 6
-   /fe/Javascript/Module 7
-   /fe/Javascript/Module 8
-   /fe/Javascript/Module 9
-   /fe/Javascript/Module 10
-   /fe/Javascript/Module 11
-   /fe/Javascript/Module 12
-   /fe/Javascript/Module 13
-   /fe/Javascript/Module 14
-   /fe/Javascript/Module 15
-   /fe/Javascript/Module 16
-   /fe/Javascript/Module 17
-   /fe/Javascript/Module 18
-   /fe/Javascript/Module 19
-   /fe/Javascript/Module 20
-
+   /fe/Javascript/module_1
+   /fe/Javascript/module_2
+   /fe/Javascript/module_3
+   /fe/Javascript/module_4
+   /fe/Javascript/module_5
+   /fe/Javascript/module_6
+   /fe/Javascript/module_7
+   /fe/Javascript/module_8
+   /fe/Javascript/module_9
+   /fe/Javascript/module_10
+   /fe/Javascript/module_11
+   /fe/Javascript/module_12
+   /fe/Javascript/module_13
+   /fe/Javascript/module_14
+   /fe/Javascript/module_15
+   /fe/Javascript/module_16
+   /fe/Javascript/module_17
+   /fe/Javascript/module_18
+   /fe/Javascript/module_19
+   /fe/Javascript/module_20
+   /fe/Javascript/module_21
+   /fe/Javascript/module_22
+   /fe/Javascript/module_23
+   /fe/Javascript/module_24
    
