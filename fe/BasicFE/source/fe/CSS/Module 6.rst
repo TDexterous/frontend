@@ -1,5 +1,5 @@
-Module 4 : CSS-Lists Tables
-=============================
+Module 17 : CSS-Lists Tables
+============================
 
 1) list-style-type
 ------------------
@@ -15,15 +15,21 @@ Module 4 : CSS-Lists Tables
 
 5) CSS Tables
 -------------
+
 border
 ^^^^^^
+
 width & height
 ^^^^^^^^^^^^^^
+
 text-align
 ^^^^^^^^^^
+
 vertical-align
 ^^^^^^^^^^^^^^
+
 padding
 ^^^^^^^
+
 color
 ^^^^^

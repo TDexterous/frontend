@@ -1,5 +1,5 @@
-Module 6 : CSS-Dislpay Positioning
-====================================
+Module 19 : CSS-Dislpay Positioning
+===================================
 
 1) CSS Visibility
 -----------------
@@ -12,19 +12,21 @@ Module 6 : CSS-Dislpay Positioning
 
 4) CSS Positioning
 ------------------
+
 Static Positioning
 ^^^^^^^^^^^^^^^^^^
+
 Fixed Positioning
 ^^^^^^^^^^^^^^^^^
+
 Relative Positioning
 ^^^^^^^^^^^^^^^^^^^^
+
 Absolute Positioning
 ^^^^^^^^^^^^^^^^^^^^
 
-
 5) CSS Layers with Z-index
 --------------------------
-
 
 
 **CSS Floats**
